@@ -195,6 +195,8 @@ main {
   border: none;
   border-radius: 0.3rem;
   box-shadow: 0 4px 8px rgba(var(--primary-rgb), 0.25);
+
+  display: none;
 }
 
 
